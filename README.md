@@ -1,1 +1,1 @@
-Token is : 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
+Regenerate token before push origin
